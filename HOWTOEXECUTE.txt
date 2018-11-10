@@ -1,0 +1,21 @@
+-- Português
+
+Para executar o código é necessário ter instalado o Jupyter Notebook através do link http://jupyter.org/install
+Após isso, abrir o arquivo .ipynb e apenas dar Run, preenchendo os campos que são solicitados.
+
+Se preferir executar o código manualmente em um terminal, é necessário importar as seguintes bibliotecas
+*random import randint
+*math import sqrt
+
+E não esqueça de importar as funções sucessores, menor_caminho e busca_gulosa.
+
+-- English
+
+To run the code you must have installed Jupyter Notebook. Download it from http://jupyter.org/install
+With Jupyter installed, open the file .ipynb and click Run. Fill the required fields.
+
+If you prefer run the code manually in terminal, need to import the follow libraries
+*random import randint
+*math import sqrt
+
+And don't forget to import the sucessor function, menor_caminho and busca_gulosa.

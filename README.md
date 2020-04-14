@@ -1,4 +1,4 @@
-# algorithm ia
+# algorithm ai
 Simple implementation of Greedy Search [Artificial Intelligence]
 
 <p>Feito por Ramon Cunha<br>
